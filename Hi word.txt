@@ -1,5 +1,7 @@
 print("Hi my Word!");
-print("Hello everybody");
-print("Hello");
-print("Hello my dear fiend");
-print("Glad to see you");
+print("Hello everybody;");
+print("Hello;");
+print("Hello my dear fiend;");
+print("Glad to see you;");
+
+
